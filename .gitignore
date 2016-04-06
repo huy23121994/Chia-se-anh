@@ -1,0 +1,12 @@
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+private.xml
+private.properties
+btl_web_app.sql
+public/upload/*
+.idea/*
+app/config/database.php

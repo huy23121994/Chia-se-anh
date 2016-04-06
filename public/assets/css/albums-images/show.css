@@ -1,0 +1,21 @@
+.follow-btn, .unfollow-btn{
+    margin-bottom: 13px;
+}
+
+a.user_name img.avatar{
+    width: 10%;
+    margin-left: 5px;
+}
+
+ul.commentList img.avatar{
+    width: 10%;
+    margin-left: 10px;
+}
+ul.commentList li{
+    width: 100%;
+}
+ul.commentList div.commentText{
+    width: 100%;
+    background-color: #cccccc;
+    border-radius: 0px;
+}
